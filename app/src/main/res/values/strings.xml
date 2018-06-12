@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">V-MVVMDemo</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+
+    <string name="title_home">热门话题</string>
+    <string name="title_dashboard">科技动态</string>
+    <string name="title_notifications">开发者资讯</string>
 </resources>

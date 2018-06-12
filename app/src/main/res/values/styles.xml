@@ -6,6 +6,18 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="toolbar_theme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">#ffffff</item>
+    </style>
+
+    <style name="time_textAppearance" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">#737373</item>
+        <item name="android:textSize">12sp</item>
     </style>
 
 </resources>

@@ -1,4 +1,4 @@
-package me.vension.mvvm.demo.fragments
+package me.vension.mvvm.demo.ui.fragments.test
 
 import android.arch.lifecycle.Observer
 import android.arch.lifecycle.ViewModelProviders
@@ -10,7 +10,7 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_test_2.*
 import me.vension.mvvm.demo.R
 import me.vension.mvvm.demo.entitys.TestEntity
-import me.vension.mvvm.demo.vm.TestViewModel
+import me.vension.mvvm.demo.viewmodel.TestViewModel
 
 /**
  * ========================================================

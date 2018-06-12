@@ -1,4 +1,4 @@
-package me.vension.mvvm.demo.vm
+package me.vension.mvvm.demo.viewmodel
 
 import android.app.Application
 import android.arch.lifecycle.AndroidViewModel
