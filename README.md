@@ -200,7 +200,7 @@ class TestFragment2 : Fragment(){
 
 ##### 示例图
 
-![gif](https://github.com/vension/V-MVVMDemo/blob/master/screenshots/GIF.GIF?raw=true)
+![gif](https://github.com/Vension/V-MVVMDemo/blob/master/screenshots/GIF.gif)
 
 
 
